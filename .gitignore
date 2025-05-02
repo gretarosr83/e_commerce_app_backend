@@ -1,0 +1,10 @@
+#Dependencies directories
+/node_modules
+/build
+/dist
+
+#file
+package-lock.json
+
+
+.DS_store
