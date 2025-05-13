@@ -5,7 +5,7 @@ const JWT_SECRET_KEY = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrst
 const SERVER_PORT = 8080;
 
 // MongoDB database URI for connecting to the database
-const DATABASE_URI = 'mongodb://localhost:27017/EcommerceAppDb';
+const DATABASE_URI = 'mongodb://54.197.173.163:27017/EcommerceAppDb';
 
 // Duration for which JWT tokens are valid
 const TOKEN_EXPIRATION_DURATION = '7d';
